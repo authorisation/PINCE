@@ -1,11 +1,10 @@
-# PINCE
-<!---
-TODO: Include build status with the title when test coverage increases and Travis is maintained
-[![Build Status](https://travis-ci.org/korcankaraokcu/PINCE.svg?branch=master)](https://travis-ci.org/korcankaraokcu/PINCE)
--->
-PINCE is a front-end/reverse engineering tool for the GNU Project Debugger (GDB), focused on games. However, it can be used for any reverse-engineering related stuff. PINCE is an abbreviation for "PINCE is not Cheat Engine". PINCE is in development right now, read [Features](#features) part of the project to see what is done and [Roadmap](CONTRIBUTING.md#roadmap) part to see what is currently planned. Also, please read [Wiki Page](https://github.com/korcankaraokcu/PINCE/wiki) of the project to understand how PINCE works.  
+# PINCE-doas
+This fork merely adds this [patch](https://patch-diff.githubusercontent.com/raw/korcankaraokcu/PINCE/pull/324.patch) while maintaining any other changes done to the upstream repo.<br>
+If you do encounter any issues with the actual software do not report those here.<br> 
+If it's anything related to doas [here's](https://github.com/authorisation/PINCE-doas/issues) your place, do NOT create an issue on the upstream repo in this case.
 
-### [Feel free to join our discord server!](https://discord.gg/jVt3BzTSpz)  
+## Unchanged original README from Apr 15 2026
+PINCE is a front-end/reverse engineering tool for the GNU Project Debugger (GDB), focused on games. However, it can be used for any reverse-engineering related stuff. PINCE is an abbreviation for "PINCE is not Cheat Engine". PINCE is in development right now, read [Features](#features) part of the project to see what is done and [Roadmap](CONTRIBUTING.md#roadmap) part to see what is currently planned. Also, please read [Wiki Page](https://github.com/korcankaraokcu/PINCE/wiki) of the project to understand how PINCE works.  
 
 *Disclaimer: Do not trust to any source other than [Trusted Sources](#trusted-sources) that claims to have the source code or package for PINCE and remember to report them **immediately***
 
